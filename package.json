@@ -1,6 +1,6 @@
 {
   "name": "@fatso83/is-rebase-or-merge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "http://github.com/fatso83/is-rebase-or-merge"
