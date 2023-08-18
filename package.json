@@ -1,6 +1,10 @@
 {
   "name": "@fatso83/is-rebase-or-merge",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fatso83/is-rebase-or-merge"
+  },
   "bin": "./is-rebase-merge.js",
   "description": "Check if you are in the middle of a rebase or merge. Useful for git hooks",
   "main": "./is-rebase-merge.js",
